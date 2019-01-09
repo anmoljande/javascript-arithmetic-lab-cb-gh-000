@@ -20,4 +20,16 @@ function inc(n)
 {
   return n++;
 }
-
+function dec(n)
+{
+  return n--;
+  
+}
+function makeInt(num)
+{
+  return parseInt(num,10);
+}
+function makeInt(num)
+{
+  return parseInt(num,10);
+}
