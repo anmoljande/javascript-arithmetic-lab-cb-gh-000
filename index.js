@@ -20,3 +20,4 @@ function inc(n)
 {
   return n++;
 }
+
